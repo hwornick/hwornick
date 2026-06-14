@@ -4,8 +4,25 @@ I'm a product leader based in the Bay Area. I lead product and design at [Quartz
 
 ## Projects
 
+### [pm-skills](https://github.com/hwornick/pm-skills)
+
+A collection of Claude Code skills I built to automate real PM tasks.
+
+#### [win-loss-analysis](https://github.com/hwornick/pm-skills/tree/main/win-loss-analysis)
+Produces a quarterly win/loss report that surfaces the actual drivers behind each deal outcome, clusters in themes, and enriches with product metrics.
+
+#### [feature-request-digest](https://github.com/hwornick/pm-skills/tree/main/feature-request-digest)
+Synthesizes a pile of feature-request tickets into a ranked digest with themes, customer ARR exposure, and momentum trends across reporting cycles.
+
+#### [pr-summary](https://github.com/hwornick/pm-skills/tree/main/pr-summary)
+Converts a repo's merged PRs into a plain-English summary grouped by product initiative, ready to drop into a sprint review or exec update.
+
+---
+
 ### [Square Distance Game](https://github.com/hwornick/square-distance-game)
 A quick little math puzzle game. You get a grid with some highlighted target cells and try to find the cell that minimizes the total squared distances to all of them. It's a fun way to build intuition for least-squares optimization. [Play it here.](https://square-distance-game.vercel.app/)
+
+---
 
 ### Fantasy Baseball
 
