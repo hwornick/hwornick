@@ -6,7 +6,7 @@ I'm a product leader based in the Bay Area. I lead product and design at [Quartz
 
 ### [pm-skills](https://github.com/hwornick/pm-skills)
 
-A collection of Claude Code skills I built to automate real PM tasks.
+A collection of AI skills I built to automate real PM tasks.
 
 #### [win-loss-analysis](https://github.com/hwornick/pm-skills/tree/main/win-loss-analysis)
 Produces a quarterly win/loss report that surfaces the actual drivers behind each deal outcome, clusters in themes, and enriches with product metrics.
