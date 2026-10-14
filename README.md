@@ -26,7 +26,7 @@ A quick little math puzzle game. You get a grid with some highlighted target cel
 
 ### Fantasy Baseball
 
-I've played fantasy baseball since high school, and my current league of friends has been going since 2013. Over the years I've built out a small suite of tools to help prepare for the draft and manage my team. And no big deal, but I was league champion in 2016 and 2025, with division titles in 2019 and 2020.
+I've played fantasy baseball since high school, and my current league of friends has been going since 2013. Over the years I've built out a small suite of tools to help prepare for the draft and manage my team. And no big deal, but I was league champion in 2016, 2025, and 2026 (first back-to-back champion in league history), with division titles in 2019 and 2020.
 
 #### [draft-prep](https://github.com/hwornick/draft-prep)
 Generates a cheatsheet for an auction draft. Ingests player projections and historical league data, runs a valuation model (SGP + z-scores, blended with historical auction prices), and spits out a formatted Excel workbook I can use on draft day.
