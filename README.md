@@ -14,6 +14,12 @@ Produces a quarterly win/loss report that surfaces the actual drivers behind eac
 #### [feature-request-digest](https://github.com/hwornick/pm-skills/tree/main/feature-request-digest)
 Synthesizes a pile of feature-request tickets into a ranked digest with themes, customer ARR exposure, and momentum trends across reporting cycles.
 
+#### [feature-request-intake](https://github.com/hwornick/pm-skills/tree/main/feature-request-intake)
+Takes a single customer feature request end to end: figures out the real ask, checks whether the product already does it, and either writes a ready-to-build ticket or documents the open product/design/eng questions on the right feedback ticket.
+
+#### [jira-triage](https://github.com/hwornick/pm-skills/tree/main/jira-triage)
+Buckets a large set of open Jira tickets from any JQL query into urgent / important / backlog / close / ignore, and writes a markdown report linking every ticket.
+
 #### [pr-summary](https://github.com/hwornick/pm-skills/tree/main/pr-summary)
 Converts a repo's merged PRs into a plain-English summary grouped by product initiative, ready to drop into a sprint review or exec update.
 
