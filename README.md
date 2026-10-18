@@ -8,20 +8,13 @@ I'm a product leader based in the Bay Area. I lead product and design at [Quartz
 
 A collection of AI skills I built to automate real PM tasks.
 
-#### [win-loss-analysis](https://github.com/hwornick/pm-skills/tree/main/win-loss-analysis)
-Produces a quarterly win/loss report that surfaces the actual drivers behind each deal outcome, clusters in themes, and enriches with product metrics.
-
-#### [feature-request-digest](https://github.com/hwornick/pm-skills/tree/main/feature-request-digest)
-Synthesizes a pile of feature-request tickets into a ranked digest with themes, customer ARR exposure, and momentum trends across reporting cycles.
-
-#### [feature-request-intake](https://github.com/hwornick/pm-skills/tree/main/feature-request-intake)
-Takes a single customer feature request end to end: figures out the real ask, checks whether the product already does it, and either writes a ready-to-build ticket or documents the open product/design/eng questions on the right feedback ticket.
-
-#### [jira-triage](https://github.com/hwornick/pm-skills/tree/main/jira-triage)
-Buckets a large set of open Jira tickets from any JQL query into urgent / important / backlog / close / ignore, and writes a markdown report linking every ticket.
-
-#### [pr-summary](https://github.com/hwornick/pm-skills/tree/main/pr-summary)
-Converts a repo's merged PRs into a plain-English summary grouped by product initiative, ready to drop into a sprint review or exec update.
+| Skill | What it does |
+|---|---|
+| [**win-loss-analysis**](https://github.com/hwornick/pm-skills/tree/main/win-loss-analysis) | Produces a quarterly win/loss report that surfaces the real drivers behind each deal outcome, clustered into themes and enriched with product metrics. |
+| [**feature-request-digest**](https://github.com/hwornick/pm-skills/tree/main/feature-request-digest) | Synthesizes feature-request tickets into a ranked digest with themes, customer ARR exposure, and trends across reporting cycles. |
+| [**feature-request-intake**](https://github.com/hwornick/pm-skills/tree/main/feature-request-intake) | Takes a single customer feature request from vague ask to either a ready-to-build ticket or a documented set of open product questions. |
+| [**jira-triage**](https://github.com/hwornick/pm-skills/tree/main/jira-triage) | Buckets hundreds of open Jira tickets into urgent / important / backlog / close / ignore and writes a report linking every one. |
+| [**pr-summary**](https://github.com/hwornick/pm-skills/tree/main/pr-summary) | Converts a repo's merged PRs into a plain-English summary grouped by product initiative, ready for a sprint review or exec update. |
 
 ---
 
@@ -34,11 +27,8 @@ A quick little math puzzle game. You get a grid with some highlighted target cel
 
 I've played fantasy baseball since high school, and my current league of friends has been going since 2013. Over the years I've built out a small suite of tools to help prepare for the draft and manage my team. And no big deal, but I was league champion in 2016, 2025, and 2026 (first back-to-back champion in league history), with division titles in 2019 and 2020.
 
-#### [draft-prep](https://github.com/hwornick/draft-prep)
-Generates a cheatsheet for an auction draft. Ingests player projections and historical league data, runs a valuation model (SGP + z-scores, blended with historical auction prices), and spits out a formatted Excel workbook I can use on draft day.
-
-#### [draft-analysis](https://github.com/hwornick/draft-analysis)
-Grades every team right after the draft. Parses a draft results export, fuzzy-matches players to projection data, computes projected stats for all scoring categories, and writes out markdown reports with power rankings and a personalized strategy guide.
-
-#### [roto-rankings](https://github.com/hwornick/roto-rankings)
-Calculates would-be rotisserie standings for a head-to-head league. Useful for separating actual performance from scheduling luck.
+| Tool | What it does |
+|---|---|
+| [**draft-prep**](https://github.com/hwornick/draft-prep) | Turns player projections and league history into an auction-draft cheatsheet, valuing players with SGP + z-scores blended with past auction prices. |
+| [**draft-analysis**](https://github.com/hwornick/draft-analysis) | Grades every team right after the draft with projected category stats, power rankings, and a personalized strategy guide. |
+| [**roto-rankings**](https://github.com/hwornick/roto-rankings) | Calculates would-be rotisserie standings for a head-to-head league to separate actual performance from scheduling luck. |
